@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-portal-react/static/css/main.fbb2254c.css",
+    "main.js": "/job-portal-react/static/js/main.e112304c.js",
+    "index.html": "/job-portal-react/index.html",
+    "main.fbb2254c.css.map": "/job-portal-react/static/css/main.fbb2254c.css.map",
+    "main.e112304c.js.map": "/job-portal-react/static/js/main.e112304c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb2254c.css",
+    "static/js/main.e112304c.js"
+  ]
+}
