@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sahoo2025/job-portal-react/static/css/main.8f6eb6a3.css",
+    "main.js": "/sahoo2025/job-portal-react/static/js/main.72e32c1c.js",
+    "index.html": "/sahoo2025/job-portal-react/index.html",
+    "main.8f6eb6a3.css.map": "/sahoo2025/job-portal-react/static/css/main.8f6eb6a3.css.map",
+    "main.72e32c1c.js.map": "/sahoo2025/job-portal-react/static/js/main.72e32c1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6eb6a3.css",
+    "static/js/main.72e32c1c.js"
+  ]
+}
